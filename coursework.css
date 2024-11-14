@@ -72,7 +72,7 @@ h2{
 }
 .b1{
     border:2px solid var(--blue);
-    width: 50%;
+    width: 60%;
     height: 90%;
     background-color:var(--blue);
     border-radius: 6px;
@@ -124,6 +124,7 @@ h4{
     align-items: center;
     justify-content: center;
     margin-left: 10%;
+    
    
     
 }
@@ -250,4 +251,6 @@ footer{
     align-items: center;
     text-align: center;
     justify-content: center;
+    height: 40px;
+    margin-left: 0%;
 }
